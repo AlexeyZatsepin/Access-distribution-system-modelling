@@ -1,0 +1,22 @@
+{
+  "objects": [
+    {
+      "file": "/files/Biometrics.pdf",
+      "label": 1
+    },
+    {
+      "file": "/files/secret.properties",
+      "label": 2
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Admin",
+      "label": 2
+    },
+    {
+      "name": "User1",
+      "label": 1
+    }
+  ]
+}

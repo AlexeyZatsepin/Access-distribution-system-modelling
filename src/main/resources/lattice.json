@@ -1,0 +1,34 @@
+{
+  "objects": [
+    {
+      "file": "/files/Biometrics.pdf",
+      "label": 1
+    },
+    {
+      "file": "/files/secret.properties",
+      "label": 30
+    },
+    {
+      "file": "/files/AsCrypto_CP2.2016.pdf",
+      "label": 5
+    },
+    {
+      "file": "/files/AsCrypto_CP3_2015.pdf",
+      "label": 3
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Admin",
+      "label": 30
+    },
+    {
+      "name": "User1",
+      "label": 10
+    },
+    {
+      "name": "User2",
+      "label": 15
+    }
+  ]
+}
